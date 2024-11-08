@@ -1,0 +1,221 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {{{
+  "overview": {
+    "title": "Login",
+    "ainfo": "Bigjimhilljameel@gmail.com",
+    "url": "censys.io",
+    "URLs": [
+      {
+        "u": "censys.io",
+        "l": "website",
+        "m": "default"
+      },
+      {
+        "u": "developer.censys.io",
+        "l": "website",
+        "m": "default"
+      },
+      {
+        "u": "authentication.conf authorize.conf deploymentclient.conf distsearch.conf indexes.conf inputs.conf limits.conf, except for indexed_realtime_use_by_default outputs.conf procmonfilters.conf props.conf -- global and app/user context pubsub.conf restmap.conf searchbnf.conf segmenters.conf server.conf serverclass.conf serverclass.seed.xml.conf source-classifier.conf sourcetypes.conf transforms.conf  -- global and app/user context user-seed.conf -- special case: Must be located in /system/default web.conf wmi.conf",
+        "l": "website",
+        "m": "default"
+      },
+      {
+        "u": "https://docs.splunk.com/Splexicon:Splunkd",
+        "l": "website",
+        "m": "default"
+      }
+    ],
+    "ps": 52
+  },
+  "details": {
+    "fields": [
+      {
+        "value": "Bigjimhilljameel@gmail.com",
+        "id": "",
+        "name": "username",
+        "type": "T",
+        "designation": "username"
+      },
+      {
+        "value": "KingKaram724!!",
+        "id": "",
+        "name": "password",
+        "type": "P",
+        "designation": "password"
+      }
+    ],
+    "sections": [
+      {
+        "name": "add more",
+        "title": "",
+        "fields": [
+          {
+            "t": "",
+            "n": "vs6gw2xsyfpgqgmzv2msxqfiqu",
+            "k": "file",
+            "v": {
+              "fileName": "1password-connect-api 3.yaml",
+              "unencryptedSize": 38164,
+              "encryptedSize": 38180,
+              "integrityHash": "4lTk_ywQXVaLl2v8nNnc91dDI4iz0XoKdEdmCpozOI0",
+              "nonce": "sgsX4sw4wFsDIGgH",
+              "encryptionKey": {
+                "kty": "oct",
+                "kid": "c3ioi3nhihc2wdgy6h3325isei",
+                "alg": "A256GCM",
+                "k": "29PgE7Xg23uFh2_HPsRVgO27wSR1MHeDSjkj48BSbI0",
+                "ext": true,
+                "key_ops": [
+                  "encrypt",
+                  "decrypt"
+                ]
+              },
+              "documentId": "e5sevc3rr2hf5uge7sffyjla7q",
+              "signingKey": {
+                "kty": "oct",
+                "kid": "VHWWFLJR4BBLZEFIAUZCJXMJ74",
+                "alg": "A256GCM",
+                "k": "y74I3tWKO9jhvf90BGbk17rYIc-ERsfLnWSfB_jCxr8",
+                "ext": true,
+                "key_ops": [
+                  "encrypt",
+                  "decrypt"
+                ]
+              }
+            },
+            "inputTraits": {
+              "autocorrection": "no",
+              "autocapitalization": "none"
+            }
+          },
+          {
+            "t": "",
+            "n": "2fgzx3qcayc2hp3n22a36wvvcq",
+            "k": "file",
+            "v": {
+              "fileName": "io.horizontalsystems.bankwallet_112.apk",
+              "unencryptedSize": 92929802,
+              "encryptedSize": 92929818,
+              "integrityHash": "h02rPqBcgaSNvDhkmDISuSDtxk6nc2QQtWI_2ns0xv4",
+              "nonce": "r2MQlX8ywCipLoXb",
+              "encryptionKey": {
+                "kty": "oct",
+                "kid": "zw5mvzbmuandxgdgdc2hv7cywu",
+                "alg": "A256GCM",
+                "k": "iXpkj69EWR6SXyFY2ClCAxR390FcMujN9r7bu_S-Kfs",
+                "ext": true,
+                "key_ops": [
+                  "encrypt",
+                  "decrypt"
+                ]
+              }
+            },
+            "inputTraits": {
+              "autocorrection": "no",
+              "autocapitalization": "none"
+            }
+          },
+          {
+            "t": "",
+            "n": "zguw4qyrz4pe4m6dvm5orfxkwe",
+            "k": "file",
+            "v": {
+              "fileName": " Ai cloud .rss",
+              "unencryptedSize": 23928,
+              "encryptedSize": 23944,
+              "integrityHash": "sjrrkAZvVGXR41-hA_7bJDL0-P0zSADWsBHOigJLBxg",
+              "nonce": "Z1gluUMNp9NSOx60",
+              "encryptionKey": {
+                "kty": "oct",
+                "kid": "zou2bxqfghmfwjgr5pwavimqti",
+                "alg": "A256GCM",
+                "k": "o9CqnFPeqw0Z8Ffxr5a-AEOgm27XPmfiR-8krc2tcIw",
+                "ext": true,
+                "key_ops": [
+                  "encrypt",
+                  "decrypt"
+                ]
+              },
+              "documentId": "gmtmtsuvwjrooqjfse34avam2e",
+              "signingKey": {
+                "kty": "oct",
+                "kid": "Z6RH3VNRWVHHNO5RAMDGQHUTJQ",
+                "alg": "A256GCM",
+                "k": "EjTgkk_CCuPJqxZ39ZO4FCW0bI0DIZVLRmFEZYbxhZQ",
+                "ext": true,
+                "key_ops": [
+                  "encrypt",
+                  "decrypt"
+                ]
+              }
+            },
+            "inputTraits": {
+              "autocorrection": "no",
+              "autocapitalization": "none"
+            }
+          },
+          {
+            "t": "sign in with",
+            "n": "7xydb4bc5upfo2kbvlp4fv5osu",
+            "k": "ssoLogin",
+            "v": {
+              "provider": "google",
+              "item": {
+                "vaultUuid": "t2u4wisl3dudxoihrxteh3swgm",
+                "itemUuid": "3bioc2hfcnbvwrqzljhh4kzosi"
+              }
+            },
+            "inputTraits": {
+              "autocorrection": "no",
+              "autocapitalization": "none"
+            }
+          },
+          {
+            "t": "sign in with",
+            "n": "fq5rclypxg47pew3zo6gxtrwz4",
+            "k": "ssoLogin",
+            "v": {
+              "provider": "amazon",
+              "item": {
+                "vaultUuid": "t2u4wisl3dudxoihrxteh3swgm",
+                "itemUuid": "2rpxctqkir37w666d56etu2o4y"
+              }
+            },
+            "inputTraits": {
+              "autocorrection": "no",
+              "autocapitalization": "none"
+            }
+          }
+        ]
+      },
+      {
+        "name": "linked items",
+        "title": "Related Items",
+        "fields": [
+          {
+            "t": "Database",
+            "n": "ljdlufqiy6qksjkuztdsjdmxem",
+            "k": "reference",
+            "v": "bziowfif62xbplygx5g22f5jge"
+          },
+          {
+            "t": "Credit Card",
+            "n": "rbwb2vxwhx5trtxmqzrshd7iwu",
+            "k": "reference",
+            "v": "exkzzbdjev6c2wwowiilu3fh44"
+          }
+        ]
+      }
+    ]
+  },
+  "createdAt": "2024-11-08T01:45:44Z",
+  "updatedAt": "2024-11-08T01:54:30Z",
+  "faveIndex": 0,
+  "trashed": "N",
+  "templateUuid": "001",
+  "uuid": "bvr47gkfkqyakhqkal45wrer4i"
+}}
+  }
+}
